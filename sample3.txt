@@ -1,0 +1,9 @@
+welcome
+pirate
+coconut
+rum
+ship
+paradise
+ocean
+walk1
+.
